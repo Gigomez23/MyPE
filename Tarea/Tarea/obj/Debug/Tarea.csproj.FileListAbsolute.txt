@@ -1,0 +1,7 @@
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Tarea\Tarea\obj\Debug\Tarea.csproj.AssemblyReference.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Tarea\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Tarea\Tarea\obj\Debug\Tarea.pdb
