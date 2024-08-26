@@ -1,0 +1,15 @@
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.deps.json
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.runtimeconfig.json
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.dll
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.AssemblyInfoInputs.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.AssemblyInfo.cs
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.csproj.CoreCompileInputs.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.sourcelink.json
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.dll
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\refint\Sesion2.dll
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.genruntimeconfig.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\MyPE\Sesion2\Sesion2\obj\Debug\net8.0\ref\Sesion2.dll
