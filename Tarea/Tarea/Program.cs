@@ -167,6 +167,13 @@ namespace Tarea
                 case 7:
                     NumeroMayor();
                     break;
+                case 8:
+
+                default:
+                    //Console.WriteLine("La opcion no es valida");
+                    Console.Write("Presione cualquier teclar para salir . . .");
+                    Console.ReadKey();
+                    break;
             }
         }
 
