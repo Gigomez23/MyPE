@@ -1,0 +1,11 @@
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\bin\Debug\Sesion5_ejercicio1.exe.config
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\bin\Debug\Sesion5_ejercicio1.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\bin\Debug\Sesion5_ejercicio1.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\obj\Debug\Sesion5_ejercicio1.csproj.AssemblyReference.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\obj\Debug\Sesion5_ejercicio1.Form1.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\obj\Debug\Sesion5_ejercicio1.Properties.Resources.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\obj\Debug\Sesion5_ejercicio1.csproj.GenerateResource.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\obj\Debug\Sesion5_ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\obj\Debug\Sesion5_ejercicio1.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\obj\Debug\Sesion5_ejercicio1.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion5_ejercicio1\obj\Debug\Sesion5_ejercicio1.Form2.resources
