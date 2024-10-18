@@ -1,0 +1,11 @@
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\bin\Debug\Sesion17.exe.config
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\bin\Debug\Sesion17.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\bin\Debug\Sesion17.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\obj\Debug\Sesion17.csproj.AssemblyReference.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\obj\Debug\Sesion17.Formularios.ProductoFrm.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\obj\Debug\Sesion17.Properties.Resources.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\obj\Debug\Sesion17.csproj.GenerateResource.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\obj\Debug\Sesion17.csproj.CoreCompileInputs.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\obj\Debug\Sesion17.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\obj\Debug\Sesion17.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Sesion17\obj\Debug\Sesion17.Form1.resources

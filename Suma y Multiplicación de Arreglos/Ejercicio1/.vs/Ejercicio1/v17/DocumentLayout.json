@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comgo\\Desktop\\College Work\\Semestre II IV\\Met. y prog. estr\\MyPE\\Suma y Multiplicaci\u00F3n de Arreglos\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E116A27D-485B-4BD0-B356-A1CA84BC9DBD}|Ejercicio1.csproj|c:\\users\\comgo\\desktop\\college work\\semestre ii iv\\met. y prog. estr\\mype\\suma y multiplicaci\u00F3n de arreglos\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E116A27D-485B-4BD0-B356-A1CA84BC9DBD}|Ejercicio1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E116A27D-485B-4BD0-B356-A1CA84BC9DBD}|Ejercicio1.csproj|c:\\users\\comgo\\desktop\\college work\\semestre ii iv\\met. y prog. estr\\mype\\suma y multiplicaci\u00F3n de arreglos\\ejercicio1\\models\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E116A27D-485B-4BD0-B356-A1CA84BC9DBD}|Ejercicio1.csproj|solutionrelative:models\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E116A27D-485B-4BD0-B356-A1CA84BC9DBD}|Ejercicio1.csproj|c:\\users\\comgo\\desktop\\college work\\semestre ii iv\\met. y prog. estr\\mype\\suma y multiplicaci\u00F3n de arreglos\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E116A27D-485B-4BD0-B356-A1CA84BC9DBD}|Ejercicio1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "matriz.cs",
+              "DocumentMoniker": "C:\\Users\\comgo\\Desktop\\College Work\\Semestre II IV\\Met. y prog. estr\\MyPE\\Suma y Multiplicaci\u00F3n de Arreglos\\Ejercicio1\\models\\matriz.cs",
+              "RelativeDocumentMoniker": "models\\matriz.cs",
+              "ToolTip": "C:\\Users\\comgo\\Desktop\\College Work\\Semestre II IV\\Met. y prog. estr\\MyPE\\Suma y Multiplicaci\u00F3n de Arreglos\\Ejercicio1\\models\\matriz.cs",
+              "RelativeToolTip": "models\\matriz.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:23:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\comgo\\Desktop\\College Work\\Semestre II IV\\Met. y prog. estr\\MyPE\\Suma y Multiplicaci\u00F3n de Arreglos\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\comgo\\Desktop\\College Work\\Semestre II IV\\Met. y prog. estr\\MyPE\\Suma y Multiplicaci\u00F3n de Arreglos\\Ejercicio1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:11:50.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\comgo\\Desktop\\College Work\\Semestre II IV\\Met. y prog. estr\\MyPE\\Suma y Multiplicaci\u00F3n de Arreglos\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\comgo\\Desktop\\College Work\\Semestre II IV\\Met. y prog. estr\\MyPE\\Suma y Multiplicaci\u00F3n de Arreglos\\Ejercicio1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:59:42.546Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
